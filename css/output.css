@@ -191,6 +191,9 @@
   .absolute {
     position: absolute;
   }
+  .static {
+    position: static;
+  }
   .sticky {
     position: sticky;
   }
@@ -265,6 +268,9 @@
   }
   .ml-0 {
     margin-left: calc(var(--spacing) * 0);
+  }
+  .block {
+    display: block;
   }
   .flex {
     display: flex;
