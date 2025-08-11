@@ -1282,16 +1282,13 @@
 }
 
 @media only screen and (max-width: 1280px) {
-  .main {}
+
 
   .first {
     width: 30%;
     padding-left: 0;
   }
 
-  .second {
-    background-color: red;
-  }
 
   .third img {
     display: none;
@@ -1348,10 +1345,6 @@
 
   .first ul {
     padding: 0;
-  }
-
-  .second {
-    background-color: blue;
   }
 
   .third {
